@@ -39,8 +39,7 @@ def zad4():
 
 
 def zad5():
-    liczby_doskonale = []
-    for i in range():
+
 
 
 
